@@ -638,7 +638,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #features .icon i {
-  color: #666666;
+  color: #ffffff;
   font-size: 40px;
   transition: 0.5s;
 }
@@ -698,7 +698,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #advanced-features i {
-  color: #666666;
+  color: #ffffff;
   font-size: 64px;
   transition: 0.5s;
   float: left;
