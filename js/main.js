@@ -123,3 +123,13 @@ jQuery(document).ready(function($) {
   // custom code
 
 });
+
+function myMap() {
+    var mapCanvas = document.getElementById("map");
+    var mapOptions = {
+        center: new google.maps.LatLng(23.5204 , 87.3119),
+        zoom: 10
+    };
+    var map = new google.maps.Map(mapCanvas, mapOptions);
+}
+
