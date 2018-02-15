@@ -1253,3 +1253,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 .redheart {
   color:#ff0000; font-size:14px;
 }
+.break{
+height = 150px;
+}
+
+.table{
+font-size: 12px 
+}
